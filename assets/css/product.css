@@ -209,7 +209,7 @@ text-align: left;
     grid-template-columns: 300px 300px 300px 300px;
     text-align: center;
     gap: 30px;
-    color: white;s
+    color: white;
     font-size: 50px;
     background-color: #02062B;
     padding-top: 5px;
@@ -234,7 +234,7 @@ text-align: left;
     grid-template-columns: 300px 300px 300px 300px;
     text-align: center;
     gap: 30px;
-    color: white;s
+    color: white;
     font-size: 50px;
     background-color: #02062B;
     padding-top: 5px;
@@ -260,7 +260,7 @@ text-align: left;
     grid-template-columns: 300px 300px 300px 300px;
     text-align: center;
     gap: 30px;
-    color: white;s
+    color: white;
     font-size: 50px;
     background-color: #02062B;
     padding-top: 5px;
@@ -285,7 +285,7 @@ text-align: left;
     grid-template-columns: 300px 300px 300px 300px;
     text-align: center;
     gap: 30px;
-    color: white;s
+    color: white;
     font-size: 50px;
     background-color: #02062B;
     padding-top: 5px;
@@ -294,13 +294,6 @@ text-align: left;
     padding-right:10px;
     border-radius: 10px;
 } 
-
-
-
-
-
-
-
 .line2 {
     background-color: #A195F1;
     padding: 10px;
@@ -321,7 +314,7 @@ text-align: left;
     color:#EFEFEF;
     font-size: 25px;
     background-size: cover;
-    
+    width: 100vw;
     }
     
     .footers-item{  
