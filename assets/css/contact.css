@@ -1,0 +1,87 @@
+@font-face {
+    font-family: novacut;
+    src: url(/assets/Nova_Cut/NovaCut-Regular.ttf)
+}
+@font-face {
+    font-family: novaflat;
+    src: url(/assets/Nova_Flat/NovaFlat-Regular.ttf);
+}
+
+@font-face {
+    font-family: inter;
+    src: url(/assets/Inter/Inter-VariableFont_opsz\,wght.ttf);
+}
+
+.main-container{
+    margin: 20px auto 20px auto;
+}
+
+.main-container h2{
+    font-family: novacut;
+}
+
+.main-container h3{
+    font-family: inter;
+}
+
+.main-container label{
+    font-family: inter;
+}
+
+.main-container p{
+    font-family: inter;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 75% 25%;
+    column-gap: 25px;
+}
+
+.form-item{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.form-name{
+    width: 374px;
+    height: 27px;
+}
+
+.form-email{
+    width: 758px;
+    height: 27px;
+}
+
+.form-button{
+    background-color: #A195F1;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    font-family: inter;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-bottom: 80px;
+    margin-top: 15px;
+    cursor:pointer;
+    transition-duration: 0.3s;
+}
+
+.desc-container{
+    border-style: hidden hidden solid hidden;
+    border-width: 1px;
+    border-color: black;
+    padding: 10px;
+}
+
+.desc-container-time{
+    padding: 10px;
+}
+
+::placeholder {
+    color: #7c74af;
+    opacity: 1;
+  }
